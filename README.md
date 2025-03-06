@@ -5,10 +5,8 @@ This project is a Virtual Reality (VR) game designed for children (ages 5 and ab
 
 The first story we developed focuses on Prophet Yunus (peace be upon him), bringing his journey to life in an interactive way. Our goal is to expand this project by incorporating more stories of the prophets in the future.
 
-Demo & References
-[Insert link here]
 
-
+Demo & References : 
 https://drive.google.com/drive/folders/1pOuu0ucdfvVCAR1GouIPQtkC2YqQwP3K?usp=sharing
 
 
